@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1657104257,
+	"version": 1657108421,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -96,6 +96,10 @@
 		"media/bluegem.ogg",
 		"media/level.m4a",
 		"media/level.ogg",
+		"media/code.m4a",
+		"media/code.ogg",
+		"media/beat.m4a",
+		"media/beat.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
