@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1657180148,
+	"version": 1657446894,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -77,9 +77,13 @@
 		"images/azar-sheet1.png",
 		"images/gemeffectblue-sheet0.png",
 		"images/gemeffectblue-sheet1.png",
+		"images/gemeffectblue-sheet2.png",
 		"images/shekastanee-sheet0.png",
 		"images/shekastanee-sheet1.png",
 		"images/back-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/no-sheet0.png",
+		"images/yes-sheet0.png",
 		"media/gemcollect.m4a",
 		"media/gemcollect.ogg",
 		"media/click.m4a",
