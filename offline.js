@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1657446894,
+	"version": 1657711986,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -84,6 +84,11 @@
 		"images/sprite2-sheet0.png",
 		"images/no-sheet0.png",
 		"images/yes-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/sprite3-sheet1.png",
+		"images/bulletw1-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/sprite5-sheet1.png",
 		"media/gemcollect.m4a",
 		"media/gemcollect.ogg",
 		"media/click.m4a",
